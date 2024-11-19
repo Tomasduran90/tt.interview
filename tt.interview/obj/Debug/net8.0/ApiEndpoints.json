@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "tt.interview.Controllers.TTUserController",
+    "Method": "Get",
+    "RelativePath": "TTUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetUser"
+  }
+]

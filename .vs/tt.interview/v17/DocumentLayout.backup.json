@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tomas Duran\\source\\repos\\tt.interview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49DA2044-9F9B-4FE1-9A3F-B0051C90F51C}|tt.interview\\tt.interview.csproj|c:\\users\\tomas duran\\source\\repos\\tt.interview\\tt.interview\\controllers\\ttusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DA2044-9F9B-4FE1-9A3F-B0051C90F51C}|tt.interview\\tt.interview.csproj|solutionrelative:tt.interview\\controllers\\ttusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DA2044-9F9B-4FE1-9A3F-B0051C90F51C}|tt.interview\\tt.interview.csproj|c:\\users\\tomas duran\\source\\repos\\tt.interview\\tt.interview\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DA2044-9F9B-4FE1-9A3F-B0051C90F51C}|tt.interview\\tt.interview.csproj|solutionrelative:tt.interview\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DA2044-9F9B-4FE1-9A3F-B0051C90F51C}|tt.interview\\tt.interview.csproj|c:\\users\\tomas duran\\source\\repos\\tt.interview\\tt.interview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DA2044-9F9B-4FE1-9A3F-B0051C90F51C}|tt.interview\\tt.interview.csproj|solutionrelative:tt.interview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DA2044-9F9B-4FE1-9A3F-B0051C90F51C}|tt.interview\\tt.interview.csproj|c:\\users\\tomas duran\\source\\repos\\tt.interview\\tt.interview\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DA2044-9F9B-4FE1-9A3F-B0051C90F51C}|tt.interview\\tt.interview.csproj|solutionrelative:tt.interview\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas Duran\\source\\repos\\tt.interview\\tt.interview\\Program.cs",
+              "RelativeDocumentMoniker": "tt.interview\\Program.cs",
+              "ToolTip": "C:\\Users\\Tomas Duran\\source\\repos\\tt.interview\\tt.interview\\Program.cs",
+              "RelativeToolTip": "tt.interview\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:02:29.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas Duran\\source\\repos\\tt.interview\\tt.interview\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "tt.interview\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Tomas Duran\\source\\repos\\tt.interview\\tt.interview\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "tt.interview\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:50:46.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas Duran\\source\\repos\\tt.interview\\tt.interview\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "tt.interview\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Tomas Duran\\source\\repos\\tt.interview\\tt.interview\\WeatherForecast.cs",
+              "RelativeToolTip": "tt.interview\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:47:23.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TTUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas Duran\\source\\repos\\tt.interview\\tt.interview\\Controllers\\TTUserController.cs",
+              "RelativeDocumentMoniker": "tt.interview\\Controllers\\TTUserController.cs",
+              "ToolTip": "C:\\Users\\Tomas Duran\\source\\repos\\tt.interview\\tt.interview\\Controllers\\TTUserController.cs*",
+              "RelativeToolTip": "tt.interview\\Controllers\\TTUserController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:45:54.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1248,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@tt.interview_HostAddress = http://localhost:5111
+
+GET {{tt.interview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
